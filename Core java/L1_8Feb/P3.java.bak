@@ -1,0 +1,10 @@
+class P3 
+{
+	public static void main(String[] args) 
+	{
+		String Cnd_Name = "Vinayak";
+		int Cnd_Age = 21;
+		System.out.println(Cnd_Name);
+		System.out.println(Cnd_Age);
+	}
+}

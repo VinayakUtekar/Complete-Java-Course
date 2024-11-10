@@ -1,0 +1,15 @@
+class P1
+{
+	public static void addition(int a, int b){
+		int sum = a + b;
+		System.out.println("Addition = " + sum);
+	}
+	public static void main(String[] args) 
+	{
+		addition(10,20);
+		addition(25,35);
+		addition(-15,-20);
+		addition(0,45);
+		addition(-20,20);
+	}
+} 
